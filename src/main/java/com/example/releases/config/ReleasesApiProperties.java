@@ -7,6 +7,6 @@ import org.springframework.stereotype.Component;
 @Component
 @ConfigurationProperties(prefix = "releases")
 @Data
-public class ReleasesClientProperties {
+public class ReleasesApiProperties {
     private String apiUrl;
 }

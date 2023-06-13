@@ -1,4 +1,4 @@
-package com.example.releases;
+package com.example.releases.domain;
 
 
 import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlRootElement;

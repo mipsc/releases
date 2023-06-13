@@ -1,0 +1,5 @@
+releases:
+    apiUrl: "https://api.github.com/repos/facebook/react/releases"
+
+cache:
+    filteredReleasesName: "filteredReleases"
